@@ -1,11 +1,6 @@
 {
   "lists": [
     {
-      "id": 1,
-      "name": "Покупки",
-      "colorId": 5
-    },
-    {
       "id": 2,
       "name": "Фронтенд",
       "colorId": 4
@@ -29,11 +24,6 @@
       "name": "Спорт",
       "colorId": 3,
       "id": 6
-    },
-    {
-      "name": "bvjfvf",
-      "colorId": 1,
-      "id": 7
     }
   ],
   "tasks": [
@@ -60,6 +50,42 @@
       "listId": 2,
       "text": "Redux (redux-observable, redux-saga)",
       "completed": false
+    },
+    {
+      "listId": 2,
+      "text": "123",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "listId": 4,
+      "text": "Купить 1984",
+      "completed": false,
+      "id": 10
+    },
+    {
+      "listId": 4,
+      "text": "йцу",
+      "completed": false,
+      "id": 11
+    },
+    {
+      "listId": 3,
+      "text": "вмилама",
+      "completed": false,
+      "id": 12
+    },
+    {
+      "listId": 3,
+      "text": "акаука",
+      "completed": false,
+      "id": 13
+    },
+    {
+      "listId": 3,
+      "text": "какак",
+      "completed": false,
+      "id": 14
     }
   ],
   "colors": [
